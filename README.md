@@ -1,8 +1,8 @@
 # BiCo: Composing Concepts from Images and Videos via Concept-prompt Binding
 
-[![project_page](https://img.shields.io/badge/Project-Page-green)](https://refkxh.github.io/BiCo_Webpage/) &nbsp; [![arxiv](https://img.shields.io/badge/arXiv-2512.xxxxx-b31b1b.svg)](https://arxiv.org/abs/TBD/) &nbsp; [![license](https://img.shields.io/github/license/modelscope/DiffSynth-Studio.svg)](https://github.com/modelscope/DiffSynth-Studio/blob/master/LICENSE) &nbsp; [![stars](https://img.shields.io/github/stars/refkxh/BiCo.svg?style=social&label=Stars)](https://github.com/refkxh/BiCo)
+[![project_page](https://img.shields.io/badge/Project-Page-green)](https://refkxh.github.io/BiCo_Webpage/) &nbsp; [![arxiv](https://img.shields.io/badge/arXiv-2512.09824-b31b1b.svg)](https://arxiv.org/abs/2512.09824/) &nbsp; [![license](https://img.shields.io/github/license/modelscope/DiffSynth-Studio.svg)](https://github.com/modelscope/DiffSynth-Studio/blob/master/LICENSE) &nbsp; [![stars](https://img.shields.io/github/stars/refkxh/BiCo.svg?style=social&label=Stars)](https://github.com/refkxh/BiCo)
 
-Official implementation of the paper **Composing Concepts from Images and Videos via Concept-prompt Binding** [[Link](https://arxiv.org/abs/TBD/)].
+Official implementation of the paper **Composing Concepts from Images and Videos via Concept-prompt Binding** [[Link](https://arxiv.org/abs/2512.09824/)].
 
 ## 👁️ Introduction
 
@@ -370,7 +370,15 @@ accelerate launch --config_file bico/multi_concept/training_config.yaml \
 If you find BiCo useful for your research, please consider citing:
 
 ```
-TBD
+@misc{kong2025composingconceptsimagesvideos,
+      title={Composing Concepts from Images and Videos via Concept-prompt Binding}, 
+      author={Xianghao Kong and Zeyu Zhang and Yuwei Guo and Zhuoran Zhao and Songchun Zhang and Anyi Rao},
+      year={2025},
+      eprint={2512.09824},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.09824}, 
+}
 ```
 
 ## 🙏 Acknowledgements
