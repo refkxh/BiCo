@@ -6,6 +6,8 @@ Official implementation of the paper **Composing Concepts from Images and Videos
 
 ## 👁️ Introduction
 
+<div align="center"><img src="images/bico.gif" width="1000"/></div>
+
 <div align="center"><img src="images/overview.jpg" width="1000"/></div>
 
 We introduce **Bind & Compose (BiCo)**, a **one-shot** method that enables **flexible visual concept composition** by binding visual concepts with the corresponding prompt tokens and composing the target prompt with bound tokens from various sources.
@@ -30,7 +32,7 @@ This section provides step-by-step instructions for running multi-concept infere
 
 ### Step 1: Download Pretrained Models
 
-Download the pretrained concept adapter models from our [OneDrive link (TBD)](TBD).
+Download the pretrained concept adapter models from our [OneDrive link (TBD)](about://blank).
 
 ### Step 2: Place Models in the Correct Directory
 
