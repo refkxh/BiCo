@@ -14,6 +14,7 @@ We introduce **Bind & Compose (BiCo)**, a **one-shot** method that enables **fle
 
 ## 🔥 News
 
+- 21 Feb. 2026: BiCo accepted by CVPR 2026 🎉🎉🎉.
 - 10 Dec. 2025: Initial release of BiCo 🎉🎉🎉.
 
 ## 🛠️ Installation
