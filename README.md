@@ -373,14 +373,13 @@ accelerate launch --config_file bico/multi_concept/training_config.yaml \
 If you find BiCo useful for your research, please consider citing:
 
 ```
-@misc{kong2025composingconceptsimagesvideos,
-      title={Composing Concepts from Images and Videos via Concept-prompt Binding}, 
-      author={Xianghao Kong and Zeyu Zhang and Yuwei Guo and Zhuoran Zhao and Songchun Zhang and Anyi Rao},
-      year={2025},
-      eprint={2512.09824},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2512.09824}, 
+@InProceedings{Kong_2026_BiCo,
+    author    = {Kong, Xianghao and Zhang, Zeyu and Guo, Yuwei and Zhao, Zhuoran and Zhang, Songchun and Rao, Anyi},
+    title     = {Composing Concepts from Images and Videos via Concept-prompt Binding},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {14800-14810}
 }
 ```
 
