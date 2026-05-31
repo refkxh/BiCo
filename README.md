@@ -2,7 +2,7 @@
 
 [![project_page](https://img.shields.io/badge/Project-Page-green)](https://refkxh.github.io/BiCo_Webpage/) &nbsp; [![arxiv](https://img.shields.io/badge/arXiv-2512.09824-b31b1b.svg)](https://arxiv.org/abs/2512.09824/) &nbsp; [![license](https://img.shields.io/github/license/modelscope/DiffSynth-Studio.svg)](https://github.com/modelscope/DiffSynth-Studio/blob/master/LICENSE) &nbsp; [![stars](https://img.shields.io/github/stars/refkxh/BiCo.svg?style=social&label=Stars)](https://github.com/refkxh/BiCo)
 
-Official implementation of the **CVPR 2026 Highlight** paper **Composing Concepts from Images and Videos via Concept-prompt Binding** [[Link](https://arxiv.org/abs/2512.09824/)].
+Official implementation of the **CVPR 2026 Highlight** paper **Composing Concepts from Images and Videos via Concept-prompt Binding** [[Link](https://openaccess.thecvf.com/content/CVPR2026/html/Kong_Composing_Concepts_from_Images_and_Videos_via_Concept-prompt_Binding_CVPR_2026_paper.html)].
 
 ## 👁️ Introduction
 
@@ -14,7 +14,8 @@ We introduce **Bind & Compose (BiCo)**, a **one-shot** method that enables **fle
 
 ## 🔥 News
 
-- 21 Feb. 2026: BiCo accepted by CVPR 2026 as Highlight 🎉🎉🎉.
+- 09 Apr. 2026: BiCo is selected as a **Highlight** paper at CVPR 2026 🎉🎉🎉.
+- 21 Feb. 2026: BiCo accepted by CVPR 2026 🎉🎉🎉.
 - 10 Dec. 2025: Initial release of BiCo 🎉🎉🎉.
 
 ## 🛠️ Installation
